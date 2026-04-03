@@ -40,4 +40,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0092-reverse-linked-list-ii](https://github.com/loki-git001/Leet-Code/tree/master/0092-reverse-linked-list-ii) |
+## Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/loki-git001/Leet-Code/tree/master/0112-path-sum) |
+## Depth-First Search
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/loki-git001/Leet-Code/tree/master/0112-path-sum) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/loki-git001/Leet-Code/tree/master/0112-path-sum) |
+## Binary Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/loki-git001/Leet-Code/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
