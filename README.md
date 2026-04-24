@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/loki-git001/Leet-Code/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/loki-git001/Leet-Code/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/loki-git001/Leet-Code/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [2833-furthest-point-from-origin](https://github.com/loki-git001/Leet-Code/tree/master/2833-furthest-point-from-origin) |
 ## Recursion
 |  |
 | ------- |
@@ -65,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/loki-git001/Leet-Code/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+## Counting
+|  |
+| ------- |
+| [2833-furthest-point-from-origin](https://github.com/loki-git001/Leet-Code/tree/master/2833-furthest-point-from-origin) |
 <!---LeetCode Topics End-->
