@@ -23,7 +23,6 @@ class Solution:
 
         count += 1 if arr_len > 2 and flowerbed[-1] + flowerbed[-2] == 0 else 0
 
-        print(count)
         return count >= n
 
 
